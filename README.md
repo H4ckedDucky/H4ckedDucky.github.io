@@ -3,10 +3,10 @@
 Were a Minecraft Server that was hosted on **fireservers.xyz**
 What do we offer?
 ```mark
-##Events
+**Events**
 Were offering tons of events that will upcome later on
 
-###Administration Team
+´Administration Team´
 Our Administration Team will always be friendly towards you!
 
 ####Gamemodes
