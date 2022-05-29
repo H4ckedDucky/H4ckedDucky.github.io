@@ -6,16 +6,16 @@ What do we offer?
 **Events**
 Were offering tons of events that will upcome later on
 
-´Administration Team´
+#### Administration Team
 Our Administration Team will always be friendly towards you!
 
-####Gamemodes
+## Gamemodes
 Were still developing tons of Party,Minigames and more!
 
-#####How can i Help?
+### How can i Help?
 You can help by spreading this site to anyone you can!
 ```
-#####Support
+##### Support
 Having trouble with the Server or found a Bug?
 Simply direct message the Server Owner at Discord
 **H4ckedDucky#0914**
