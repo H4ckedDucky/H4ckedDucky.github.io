@@ -1,5 +1,5 @@
 # h4ckedducky.github.io
 This is my Minecraft server site
 ```
-Thanks to fireservers.xyz for hosting
+Thanks to minefort.com for hosting
 ```
